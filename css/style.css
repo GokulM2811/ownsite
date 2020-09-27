@@ -134,7 +134,7 @@ hr {
   margin-bottom: 70px;
   padding:20px 0px;
 }
-@media(max-width:600px){
+@media(max-width:767px){
   body{
     width:200%;
   }
