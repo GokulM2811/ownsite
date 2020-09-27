@@ -134,3 +134,8 @@ hr {
   margin-bottom: 70px;
   padding:20px 0px;
 }
+@media(max-width:400px){
+  body{
+    width:200%;
+  }
+}
